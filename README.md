@@ -8,3 +8,4 @@ Depot : Github et Gitlab
 
 
 Test push depuis le poste ubuntu
+Test pull : modification d'un autre poste
